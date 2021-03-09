@@ -20,4 +20,5 @@ D: Dependency Inversion Principle: Los módulos no deben depender de otros objet
 REFERENCIAS.
 
 Mohapatra, P. (2010). Software engineering: A lifyecycle approach. New Delhi: New Age International.
+
 Sánchez, S., Silicia, M., & Rodríguez, D. (2011). Capitulo 5: Diseño. En Ingeniería del Software. Un enfoque desde la guía del SWEBOK (págs. 173-215). Mexico: Alfaomega.
