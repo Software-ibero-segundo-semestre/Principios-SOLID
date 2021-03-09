@@ -11,7 +11,7 @@ L: Liskov Substitution Principle: Para objetos con herencia de una clase más gr
 
 I: Interface Segregation Principle: Es mejor crear clases pequeñas y específicas que grandes y con mucha información, entre menos interacciones haya en las interfaces mejor.  (vease carpeta: EJERCICIOS SOLID Y GRAPS/ejercicio3 andres ovalle )
 
-D: Dependency Inversion Principle: Los módulos no deben depender de otros objetos, cada clase debe funcionar por si sola. (vease carpeta: )
+D: Dependency Inversion Principle: Los módulos no deben depender de otros objetos, cada clase debe funcionar por si sola. 
 
  (Mohapatra, 2010)
  
